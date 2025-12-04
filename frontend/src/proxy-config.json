@@ -1,0 +1,4 @@
+{
+  "name": "proxy-config",
+  "description": "Proxy ayarları için örnek dosya. React'ın backend ile haberleşmesi için kullanılır."
+}
